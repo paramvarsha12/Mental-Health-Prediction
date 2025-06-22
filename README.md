@@ -34,7 +34,7 @@ Instead of giving a generic result, the app also analyzes the user’s answers a
 # Installations
 1. You have to personally download the dataset from Kaggle [https://www.kaggle.com/datasets/osmi/mental-health-in-tech-survey]
 2. Clone Repositary :
-   git clone https://github.com/paramvarsha12/mental-health-predictor.git
+   https://github.com/paramvarsha12/Mental-Health-Prediction.git
 3. To run the application :
    streamlit run main.py
 
