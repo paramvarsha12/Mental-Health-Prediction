@@ -14,6 +14,12 @@ Data: Mental Health in Tech Survey Dataset (Kaggle)
 
 ---
 
+![](https://github.com/paramvarsha12/Mental-Health-Prediction/blob/6d403ac198bfc1af0769746dec9c52ceb64d1926/Screenshot%202025-06-22%20174744.png
+)
+![](https://github.com/paramvarsha12/Mental-Health-Prediction/blob/6d403ac198bfc1af0769746dec9c52ceb64d1926/Screenshot%202025-06-22%20174753.png)
+
+---
+
 # Working 
 The application begins by loading a mental health survey dataset containing anonymized responses. Key features such as workplace environment, mental health support, and history are selected
 
